@@ -2,7 +2,7 @@
 
 ## Description
 The Python script performs the following tasks:
-- Scrapes details about every course available at FINKI(FCSE) from a **www.finki.ukim.mk** using Selenium
+- Scrapes details about every course available at FINKI (FCSE) from a **www.finki.ukim.mk** using Selenium
 - Processes and structures the scraped data.
 - Saves the processed data to a JSON file
 -  Provides error handling for missing elements during scraping.
