@@ -1,7 +1,4 @@
 # Courses scraper
-- Sample data:
-![image](https://github.com/VlahovskiAndrej/finki-scraper/assets/95543841/fe911eb3-8b64-4bd9-b608-5df27f5cad73)
-
 
 ## Description
 The Python script performs the following tasks:
@@ -9,6 +6,8 @@ The Python script performs the following tasks:
 - Processes and structures the scraped data.
 - Saves the processed data to a JSON file
 -  Provides error handling for missing elements during scraping.
+
+-  ![image](https://github.com/VlahovskiAndrej/finki-scraper/assets/95543841/fe911eb3-8b64-4bd9-b608-5df27f5cad73)
 
 ## Installation ## Usage
 
@@ -31,6 +30,8 @@ The Python script performs the following tasks:
 ```python script.py```
 
 3. The script will start scraping data from the specified website and save it to a JSON file named `output.json` in the project directory.
+
+![image](https://github.com/VlahovskiAndrej/finki-scraper/assets/95543841/78613bb7-502a-4cb7-8f04-e39cbb154603)
 
 ## Configuration
 
