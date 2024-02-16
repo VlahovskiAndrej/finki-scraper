@@ -7,7 +7,7 @@ The Python script performs the following tasks:
 - Saves the processed data to a JSON file
 -  Provides error handling for missing elements during scraping.
 
-- ![image](https://github.com/VlahovskiAndrej/finki-scraper/assets/95543841/3357e58b-f3f2-474e-a536-7e3e429d106f)
+  ![image](https://github.com/VlahovskiAndrej/finki-scraper/assets/95543841/3357e58b-f3f2-474e-a536-7e3e429d106f)
 
 ## Installation ## Usage
 
