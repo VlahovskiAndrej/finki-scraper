@@ -43,11 +43,3 @@ The Python script performs the following tasks:
 
 - Python 3.11
 - Selenium
-
-## File Structure
-
-project/
-│
-├── script.py
-├── chromedriver.exe
-└── output.json
