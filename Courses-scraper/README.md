@@ -9,7 +9,7 @@ The Python script performs the following tasks:
 
   ![image](https://github.com/VlahovskiAndrej/finki-scraper/assets/95543841/3357e58b-f3f2-474e-a536-7e3e429d106f)
 
-## Installation ## Usage
+## Installation
 
 1. Clone the repository to your local machine:
 ```git clone <repository-url>```
