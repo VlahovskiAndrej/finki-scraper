@@ -1,2 +1,2 @@
-# finki-scraper
-Python scripts for scraping data from FINKI (FCSE) services.
+# FINKI(FCSE) Scraper
+Python scripts for scraping data from FINKI (FCSE) services used for other applications.
